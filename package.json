@@ -1,0 +1,23 @@
+{
+  "name": "drag-test",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "faker": "^4.1.0",
+    "react": "^15.5.4",
+    "react-bootstrap": "^0.31.0",
+    "react-dnd": "^2.4.0",
+    "react-dnd-html5-backend": "^2.4.1",
+    "react-dom": "^15.5.4",
+    "react-virtualized": "^9.7.6"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.7"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
